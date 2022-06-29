@@ -154,7 +154,7 @@ header .container .links ul li:hover a {
 }
 
 .landing {
-    background-image: url("/images/backimage.jpg");
+    background-image: url("../images/backimage.jpg");
     background-color: rgba(255, 255, 255, 0.603);
     background-blend-mode: color;
     height: calc(100vh - 64px);
@@ -458,7 +458,7 @@ i {
 /* start contact */
 .contact {
     padding-bottom: 60px;
-    background-color: #f6f6f6;
+    background-color: #fff;
 }
 
 .contact .info {
@@ -564,7 +564,7 @@ i {
 
 .footer div {
     margin-top: 10px;
-    background-color: red;
+  
 }
 
 .footer p {
